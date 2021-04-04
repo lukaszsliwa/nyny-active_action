@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "nyny-active_action"
-  spec.version       = '3.0.1'
+  spec.version       = '3.0.6'
   spec.authors       = ["Łukasz Śliwa"]
   spec.email         = ["lukasz.sliwa@apptamers.com"]
 
