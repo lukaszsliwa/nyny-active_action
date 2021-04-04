@@ -14,11 +14,7 @@ Visit the parent [ruby-active_action](https://github.com/lukaszsliwa/active_acti
 
 Add this line to your application's Gemfile:
 
-```ruby
-gem 'nyny-active_action', '~> 3.0.1'
-```
-
-or use original gem:
+```rgem 'nyny-active_action', '~> 3.0.3' use original gem:
 
 ```ruby
 gem 'ruby-active_action', '~> 3.0.1'
