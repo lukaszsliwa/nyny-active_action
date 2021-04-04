@@ -15,7 +15,12 @@ Visit the parent [ruby-active_action](https://github.com/lukaszsliwa/active_acti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ruby-active_action', '~> 3.0.6'
+gem 'nyny-active_action', '~> 3.0.7'
+```
+or use original gem:
+
+```ruby
+gem 'ruby-active_action', '~> 3.0.7'
 ```
 
 or use alternative gems:
